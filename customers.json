@@ -1,0 +1,17 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Alice",
+    "location": "New York"
+  },
+  {
+    "customer_id": 2,
+    "name": "Bob",
+    "location": "California"
+  },
+  {
+    "customer_id": 3,
+    "name": "Charlie",
+    "location": "Texas"
+  }
+]

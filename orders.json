@@ -1,0 +1,26 @@
+[
+  {
+    "order_id": 101,
+    "customer_id": 1,
+    "amount": 250.0,
+    "date": "2024-12-01"
+  },
+  {
+    "order_id": 102,
+    "customer_id": 2,
+    "amount": 150.0,
+    "date": "2024-12-02"
+  },
+  {
+    "order_id": 103,
+    "customer_id": 1,
+    "amount": 300.0,
+    "date": "2024-12-03"
+  },
+  {
+    "order_id": 104,
+    "customer_id": 3,
+    "amount": 400.0,
+    "date": "2024-12-04"
+  }
+]
